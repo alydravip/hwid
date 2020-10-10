@@ -1,0 +1,6 @@
+Hydra cliente do alydra.vip
+key - perm
+
+Allyson cliente do alydra.vip
+key - 5 dias
+
